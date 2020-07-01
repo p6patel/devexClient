@@ -1,0 +1,24 @@
+{
+  "virtualCardReferenceId": "UNYXLmwrgBYGUut5nliFOezJW2I6ZLDlxlcLAm2gtZznmdsOV7Q",
+  "virtualCardNickname": "Netflix",
+  "virtualCardStatus": "Active",
+  "virtualCardDetails": {
+    "cardNumber": "4046157610832058",
+    "cardHolderName": "LEE CARDHOLDER",
+    "cardExpirationDate": "2023-04",
+    "cvv": "420",
+    "billingAddress": {
+      "addressLine1": "789 BREEZY LANE",
+      "city": "SAN FRANCISCO",
+      "stateCode": "CA",
+      "postalCode": "95187",
+      "countryCode": "USA"
+    }
+  },
+  "physicalCardDetails": {
+    "lastFourCardNumber": "9461",
+    "productName": "Venture",
+    "nickname": "My fav card",
+    "cardArtImageUrl": "https://www.capitalone.com/assets/affiliates/card_art/affiliates-venture-generic-500x315.png"
+  }
+}
